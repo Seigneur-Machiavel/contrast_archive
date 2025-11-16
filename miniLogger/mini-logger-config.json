@@ -1,0 +1,20 @@
+{
+    "maxHistory": "100",
+    "allActive": true,
+    "activeCategories": {
+        "global": true,
+        "main": true,
+        "shortcuts": true,
+        "chat": true,
+        "P2PNetwork": true,
+        "blockchain": true,
+        "node": true,
+        "sync": true,
+        "validation": true,
+        "wallet": true,
+        "dashboard": true,
+        "TimeSynchronizer": true,
+        "storage": true,
+        "stress-test": true
+    }
+}
